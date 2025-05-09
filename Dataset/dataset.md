@@ -1,4 +1,4 @@
-<b><h>https://lila.science/datasets/ohio-small-animals/</h></b>
+# https://lila.science/datasets/ohio-small-animals/
 
 
   !wget https://storage.googleapis.com/public-datasets-lila/osu-small-animals/osu-small-animals-lila.zip
